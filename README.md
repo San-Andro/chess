@@ -7,7 +7,6 @@
 Требования: Node.js (в окружении проекта корректно работает с Vite `6.4.x`).
 
 ```bash
-cd shah-chess-online
 npm i
 npm run dev
 ```
